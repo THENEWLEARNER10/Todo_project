@@ -10,3 +10,9 @@ https://github.com/user-attachments/assets/410224f0-6a0a-41cd-9ec9-708c631ee3d0
 
 # To Add the Daily Activites
 
+
+![Image](https://github.com/user-attachments/assets/2d1325d4-b8cd-4698-8be2-0e0ac70737f1)
+
+
+# To Delete the the unnecessary activty
+
