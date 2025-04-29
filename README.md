@@ -1,1 +1,2 @@
-Basic  Todo project with postgresql database
+# Basic  Todo List project were you can note down your activities.
+Look the Following screenshoot of project.
